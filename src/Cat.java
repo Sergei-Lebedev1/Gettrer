@@ -2,7 +2,8 @@ public class Cat {
     private String name;
     private int age;
     private int weight;
-    private String color;
+    private String color1;
+
 
     public Cat(String name, int age) {
         this.name = name;

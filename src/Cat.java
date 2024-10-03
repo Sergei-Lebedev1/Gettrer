@@ -2,7 +2,7 @@ public class Cat {
     private String name;
     private int age;
     private int weight;
-    private String color1;
+    private String color;
 
 
     public Cat(String name, int age) {
